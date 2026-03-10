@@ -1,5 +1,6 @@
 ![Logo](./public/FFFFFF-1.png)
-# Slooze take home challenge-back-end!!
+# Slooze take home challenge!!
+**ROLE:** **Software Engineer - Backend**
 
 ## Question:
 
